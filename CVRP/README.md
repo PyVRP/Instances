@@ -1,6 +1,6 @@
-# X instances of Uchoa et al. (2017)
+# CVRP
 
-This folder lists the so-called "X instances" of Uchoa et al. (2017) for CVRP.
+This folder contains the so-called "X instances" of Uchoa et al. (2017) for CVRP.
 Downloaded from [CVRPLIB](http://vrp.atd-lab.inf.puc-rio.br/index.php/en/).
 
 Uchoa, Eduardo et al. 2017. New benchmark instances for the Capacitated 
