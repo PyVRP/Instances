@@ -8,7 +8,7 @@ The data is the same, but a new `PRIZE_SECTION` has been added.
 The prizes listed in that section are generated as follows.
 
 Let $q_i$ be the demand of client $i$.
-The prize $p_i$ is given by $h \times q_i$, where $h$ is sampled from $U[0.75, 2.25]$.
+The prize $p_i$ is given by $h_i \times q_i$, where $h_i$ is sampled i.i.d. from $U[0.75, 2.25]$.
 These prizes are the same as those used by Bulhões et al. (2018), and, in expectation, very similar to those used by Stenger et al. (2013).
 
 Stenger, A. et al. (2013). The prize-collecting vehicle routing problem with
