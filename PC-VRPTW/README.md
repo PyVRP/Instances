@@ -9,12 +9,11 @@ The prizes listed in that section are generated as follows.
 
 Let $q_i$ be the demand of client $i$.
 The prize $p_i$ is given by $h \times q_i$, where $h$ is sampled from $U[0.75, 2.25]$.
-These prizes are the same as those used by Bulhões et al. (2018), and, in expectation, very similar to those used by Strenger et al. (2013).
+These prizes are the same as those used by Bulhões et al. (2018), and, in expectation, very similar to those used by Stenger et al. (2013).
 
-Stenger, Andreas  et al. (2013). The prize-collecting vehicle routing problem
-with single and multiple depots and non-linear cost. EURO Journal on
-Transportation and Logistics, 2(1–2): 57-87. 
-https://doi.org/10.1007/s13676-013-0022-4.
+Stenger, A. et al. (2013). The prize-collecting vehicle routing problem with
+single and multiple depots and non-linear cost. EURO Journal on Transportation
+and Logistics, 2(1–2): 57-87. https://doi.org/10.1007/s13676-013-0022-4.
 
 Bulhões, T. et al. (2018). The vehicle routing problem with service level
 constraints. European Journal of Operational Research, 265(2): 544–558.
