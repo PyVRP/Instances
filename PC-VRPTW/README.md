@@ -10,7 +10,7 @@ Let $q_i$ be the demand of client $i$.
 The prize $p_i$ is given by $h_i \times q_i$, where $h_i$ is sampled i.i.d. from $U[0.75, 2.25]$.
 These prizes are the same as those used by Bulhões et al. (2018), and, in expectation, very similar to those used by Stenger et al. (2013).
 
-Finally, the best-known solutions reported in this directory follow the DIMACS running conventions, that is, distances and durations are rounded to one decimal place.
+Finally, the best-known solutions reported in this directory follow the DIMACS running conventions, that is, distances and durations are truncated to one decimal.
 
 ### References
 
