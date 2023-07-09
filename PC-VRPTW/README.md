@@ -10,7 +10,8 @@ Let $q_i$ be the demand of client $i$.
 The prize $p_i$ is given by $h_i \times q_i$, where $h_i$ is sampled i.i.d. from $U[0.75, 2.25]$.
 These prizes are the same as those used by Bulhões et al. (2018), and, in expectation, very similar to those used by Stenger et al. (2013).
 
-Finally, the best-known solutions reported in this directory follow the DIMACS running conventions, that is, distances and durations are truncated to one decimal.
+Finally, the best-known solutions reported in this directory follow the DIMACS rounding convention, that is, distances and durations are truncated to one decimal.
+The cost represent the total distance traveled plus the total uncollected prizes, i.e., the sum of prizes of clients that are not visited in the solution.
 
 ### References
 
