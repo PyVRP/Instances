@@ -2,7 +2,6 @@
 
 Large multi-depot VRPTW instances of Vidal et al. (2013).
 Downloaded from [VRP-REP](http://www.vrp-rep.org/datasets/item/2017-0013.html) and modified to fit the VRPLIB format.
-In particular, all data is scaled by a factor 1000 to convert the values to integers (without data loss).
 
 ### References
 
