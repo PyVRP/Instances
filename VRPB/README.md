@@ -8,7 +8,7 @@ For each CVRP instance, 3 VRPB variants are created with 50%, 66% and 80% of lin
 For example, the CVRP instance X-n1001-k22 is converted to three VRPB instances X-n1001-50-k22, X-n101-66-k28, X-n101-80-k34. 
 
 This repository only includes the 90 largest VRPB instances (three per CVRP instance), which we use for benchmarking PyVRP.
-These instances range in size from 772 to 1000 customers. 
+These instances range in size from 523 to 1000 customers. 
 The other instances can be found in [this zip](https://github.com/PyVRP/PyVRP/files/14402701/VRPB.zip).
 
 
