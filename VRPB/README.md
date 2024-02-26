@@ -1,6 +1,6 @@
 # VRPB
 
-VRP with backhaul instances of Queiroga et al. (2020).
+VRP with backhauls instances of Queiroga et al. (2020).
 Downloaded from [VRP-REP](http://www.vrp-rep.org/references/item/queiroga-et-al-2019.html) and modified to fit the VRPLIB format. 
 
 These instances are generated based on the CVRP instances proposed by Uchoa et al. (2017). 
