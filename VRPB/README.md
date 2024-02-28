@@ -5,11 +5,11 @@ Downloaded from [VRP-REP](http://www.vrp-rep.org/references/item/queiroga-et-al-
 
 These instances are generated based on the CVRP instances proposed by Uchoa et al. (2017). 
 For each CVRP instance, 3 VRPB variants are created with 50%, 66% and 80% of linehaul customers, respectively. 
-For example, the CVRP instance X-n1001-k22 is converted to three VRPB instances X-n1001-50-k22, X-n101-66-k28, X-n101-80-k34. 
+For example, the CVRP instance X-n1001-k22 is converted to three VRPB instances X-n1001-50-k22, X-n1001-66-k28, X-n1001-80-k34. 
 
 This repository only includes the 90 largest VRPB instances (three per CVRP instance), which we use for benchmarking PyVRP.
 These instances range in size from 523 to 1000 customers. 
-The other instances can be found in [this zip](https://github.com/PyVRP/PyVRP/files/14402701/VRPB.zip).
+The other instances can be found in [this zip](https://github.com/PyVRP/PyVRP/files/14434517/VRPB.zip).
 
 
 ### References
