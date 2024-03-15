@@ -5,3 +5,4 @@ Route #4: 1 51 188 66 65 71 135 164 120 81 157
 Route #5: 182 123 107 49 64 181 90 108 70 162 27
 Route #6: 156 89 166 60 83 125 174 46 124 48 106 52
 Cost: 605
+Comment: Known optimal, see Freitas et al. (2023; https://doi.org/10.1016/j.cor.2022.106040) for details

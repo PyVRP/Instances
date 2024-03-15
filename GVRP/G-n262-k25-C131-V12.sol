@@ -11,3 +11,4 @@ Route #10: 224 235 11 131 10 242 38 223 249
 Route #11: 170 26 9 106 121 89 13 101 64
 Route #12: 195 217 183 36 206 65 228 54 204
 Cost: 3229
+Comment: Known optimal, see Freitas et al. (2023; https://doi.org/10.1016/j.cor.2022.106040) for details

@@ -8,3 +8,4 @@ Route #7: 190 123 16 52 75 233 38 242 11 64
 Route #8: 224 163
 Route #9: 260 137 228 206 83 220 106 121 13 114 101
 Cost: 2460
+Comment: Known optimal, see Freitas et al. (2023; https://doi.org/10.1016/j.cor.2022.106040) for details
