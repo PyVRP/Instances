@@ -1,7 +1,7 @@
 # GVRP
 
 The M and G instances in this directory with 100-300 clients are due to Bektaş et al. (2011).
-The L instances of size 500-1200 clients are due to Vidal et al. (2015), where they are presented for the Clustered VRP (CluVRP).
+The L instances of size 500-1200 clients are the modified Li instances due to Vidal et al. (2015), where they are presented for the Clustered VRP (CluVRP).
 We interpret these instances as Generalized VRPs, and round the node coordinate data to integers (by multiplying the original floating point values by 1000 and truncating to integers).
 Finally, the instances are all formatted to fit PyVRP's VRPLIB format.
 
