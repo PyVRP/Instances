@@ -1,8 +1,13 @@
 # SDVRPTW
 
-This folder contains SDVRPTW instances from Cordeau et al. (2001) and Vidal et al. (2013).
+This folder contains SDVRPTW instances from Cordeau and Laporte (2001) and Vidal et al. (2013).
+The instances with `A` and `B` suffixes are from Vidal et al. (2013) and the others are from Cordeau and Laporte (2001).
+
 Downloaded from [VRP-REP](http://www.vrp-rep.org/variants/item/sdvrptw-site-dependent.html) and modified to fit the VRPLIB format.
-The best-known values are also extracted from the results tables of Vidal et al. (2013) and fit to the VRPLIB solution format, but without known routes.
+
+The BKS presented here align the routes with the vehicles: thus, "Route 1" corresponds to "Vehicle 1" in the instance data.
+Similarly "Route 2" corresponds to "Vehicle 2", and so on.
+In this way it is unambiguous which vehicle is supposed to execute which route.
 
 ### References
 
