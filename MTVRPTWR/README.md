@@ -10,7 +10,7 @@ Release times were generated following the procedure described in Cattaruzza et 
 The BKS presented here include reload depot visits within routes by explicitly including depot indices in the solution representation. 
 Location numbering starts at 0, with depots assigned lower indices. 
 For example, in a problem with only one depot, "Route #1: 1 0 2" indicates that this route visits client 1, returns to depot 0 to reload, and then serves client 2.
-Finally, the solution costs adhere to the rounding convention where all distances and durations are rounded to one decimal place (e.g., 1052.2). 
+Finally, the solution costs follow the DIMACS rounding convention, that is, distances and durations are truncated to one decimal.
 
 ### References
 
