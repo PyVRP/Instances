@@ -1,9 +1,7 @@
 # TSP
 
-Traveling Salesman Problem Library (TSPLIB) instances by Reinelt (1991).
+This repository includes large instances (1000+ clients) from the Traveling Salesman Problem Library (TSPLIB) instances by Reinelt (1991).
 Downloaded from the [TSPLIB95 website](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/).
-
-This repository includes the large instances (1000+ clients), which we use for benchmarking PyVRP.
 The following instances were excluded from this collection:
 - `si1032.tsp`: uses upper diagonal row edge weight format
 - `pla85900.tsp` and `pla33810.tsp`: too large
