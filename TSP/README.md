@@ -7,7 +7,8 @@ The following instances were excluded from this collection:
 - `pla85900.tsp` and `pla33810.tsp`: too large
 - `d1655.tsp` and `vm1748.tsp`: rounding issues
 
-All instances have been modified to fit the VRPLIB format: the file extension was changed from `.tsp` to `.vrp`, and a `VEHICLES : 1` field was added to the header. 
+All instances have been modified to fit the VRPLIB format.
+The file extension was changed from `.tsp` to `.vrp`, a `VEHICLES : 1` field was added to the header, and scientific notation was converted to floating point notation. 
 Since there are no depots in TSP, it's assumed that the first node is the depot.
 
 Solutions were obtained by running [LKH v2.0.11](http://webhotel4.ruc.dk/~keld/research/LKH/) over multiple runs.
