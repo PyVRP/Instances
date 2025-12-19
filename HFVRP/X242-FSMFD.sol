@@ -1,72 +1,72 @@
-Route #1: 101
-Route #2: 237 69
-Route #3: 99
-Route #4: 49
-Route #5: 125 58
-Route #6: 86 111
-Route #7: 13 218
-Route #8: 121
-Route #9: 90 26 19
-Route #10: 137 107
-Route #11: 207 157 153
-Route #12: 211 230
-Route #13: 134 160 135 17 139
-Route #14: 65 142
-Route #15: 75
-Route #16: 76 122
-Route #17: 171
-Route #18: 159
-Route #19: 33 24
-Route #20: 204 225
-Route #21: 232 205
-Route #22: 15 161
-Route #23: 92 124 184
-Route #24: 203 68
-Route #25: 202 206
-Route #26: 136
-Route #27: 78 54
-Route #28: 88 80 81
-Route #29: 67 70
-Route #30: 40 192
-Route #31: 9 233
-Route #32: 198 239 178 22
-Route #33: 55 44
-Route #34: 31 4 74 141
-Route #35: 87 114
-Route #36: 167 222
-Route #37: 98 194
-Route #38: 180
-Route #39: 103 47 208
-Route #40: 11 25 66
-Route #41: 21 83
-Route #42: 43
-Route #43: 132
-Route #44: 185 52
-Route #45: 97 183
-Route #46: 186
-Route #47: 129
-Route #48: 10
-Route #49: 85
-Route #50: 119 105
-Route #51: 102 14
-Route #52: 96 28
-Route #53: 221 238
-Route #54: 156
-Route #55: 29 154
-Route #56: 150 217 12
-Route #57: 60 140
-Route #58: 36
-Route #59: 57
-Route #60: 113 235
-Route #61: 174 35
-Route #62: 209
-Route #63: 51 61
-Route #64: 115 215
-Route #65: 240 48
-Route #66: 79 6
-Route #67: 210
-Route #68: 166 118
-Route #69: 155 108
+Route #1: 156
+Route #2: 157 102
+Route #3: 21 83
+Route #4: 188 141 154
+Route #5: 159
+Route #6: 119 105
+Route #7: 118 56
+Route #8: 201
+Route #9: 51 61
+Route #10: 113 235
+Route #11: 60 140
+Route #12: 203 134 130
+Route #13: 43
+Route #14: 65 124
+Route #15: 204 117
+Route #16: 49
+Route #17: 107 137
+Route #18: 123 24 35
+Route #19: 205 232
+Route #20: 85
+Route #21: 36
+Route #22: 31 33
+Route #23: 52 153 207
+Route #24: 155 108
+Route #25: 57
+Route #26: 66 25 11
+Route #27: 13 218
+Route #28: 170 38
+Route #29: 14 6
+Route #30: 115 28
+Route #31: 206 163
+Route #32: 129
+Route #33: 160 135 44
+Route #34: 87 114
+Route #35: 69 237
+Route #36: 184 80 81
+Route #37: 224 215
+Route #38: 67 70
+Route #39: 27 187 55 17
+Route #40: 241 50
+Route #41: 185 179
+Route #42: 171
+Route #43: 210
+Route #44: 180
+Route #45: 240 48
+Route #46: 125 225
+Route #47: 95 73 92
+Route #48: 101
+Route #49: 230 211
+Route #50: 136
+Route #51: 9 233
+Route #52: 3 202 4
+Route #53: 97 183
+Route #54: 132
+Route #55: 121
+Route #56: 54 78
+Route #57: 139 68
+Route #58: 150 217 12
+Route #59: 198 239 178 22
+Route #60: 79 146
+Route #61: 186
+Route #62: 152 39 208 103
+Route #63: 91 168
+Route #64: 173 86
+Route #65: 98 194
+Route #66: 76 122
+Route #67: 96
+Route #68: 30 8
+Route #69: 209
 Route #70: 213
 Route #71:
 Route #72:
@@ -239,11 +239,11 @@ Route #238:
 Route #239:
 Route #240:
 Route #241:
-Route #242: 95 123
-Route #243: 138 93
-Route #244:
-Route #245:
-Route #246:
+Route #242: 93 138
+Route #243: 16 112
+Route #244: 216 220
+Route #245: 181 212
+Route #246: 228 82
 Route #247:
 Route #248:
 Route #249:
@@ -480,12 +480,12 @@ Route #479:
 Route #480:
 Route #481:
 Route #482:
-Route #483: 145 56
-Route #484: 179 8 220
-Route #485: 227 196
-Route #486: 163 1 3
-Route #487: 117 216
-Route #488: 110 84
+Route #483: 84 110
+Route #484: 227 196
+Route #485:
+Route #486:
+Route #487:
+Route #488:
 Route #489:
 Route #490:
 Route #491:
@@ -721,9 +721,9 @@ Route #720:
 Route #721:
 Route #722:
 Route #723:
-Route #724: 168 82 228
-Route #725: 212 181 173
-Route #726: 231 241 50 20
+Route #724:
+Route #725:
+Route #726:
 Route #727:
 Route #728:
 Route #729:
@@ -962,12 +962,12 @@ Route #961:
 Route #962:
 Route #963:
 Route #964:
-Route #965: 38 130 32 170 18
-Route #966: 5 223 176 165 73
-Route #967: 64 226 175 46
-Route #968: 146 62 71 214
-Route #969: 190 126 16
-Route #970: 201 30 224
+Route #965: 158 190 126
+Route #966: 46 175 226 64
+Route #967: 47 19 90 111
+Route #968: 145 166 231 20
+Route #969: 222 58 174 167
+Route #970:
 Route #971:
 Route #972:
 Route #973:
@@ -1203,9 +1203,9 @@ Route #1202:
 Route #1203:
 Route #1204:
 Route #1205:
-Route #1206: 104 23 144 182 53
-Route #1207:
-Route #1208:
+Route #1206: 62 71 214 32 18
+Route #1207: 1 74 99 29 88
+Route #1208: 42 199 127 147
 Route #1209:
 Route #1210:
 Route #1211:
@@ -1685,13 +1685,13 @@ Route #1684:
 Route #1685:
 Route #1686:
 Route #1687:
-Route #1688: 116 164 41 193 151 77 172 189
-Route #1689: 152 197 45 120 72 195 39 91
-Route #1690: 148 177 94 106 2 229 169 234 188
-Route #1691: 191 162 59 34 7 131 143 109 63 128 219
-Route #1692: 112 27 158 187 199 127 147 42
-Route #1693: 100 133 149 200 37 89 236
-Route #1694:
+Route #1688: 15 40 161 192 238 221 72 45
+Route #1689: 197 164 172 77 151 41 128 219 120
+Route #1690: 100 133 149 200 37 89 236
+Route #1691: 148 177 94 106 104 2 229 169 234 26
+Route #1692: 5 10 75 223 176 165 142
+Route #1693: 53 23 144 162 182 191 189 195 116
+Route #1694: 59 34 7 131 143 109 63 193
 Route #1695:
 Route #1696:
 Route #1697:
@@ -2167,4 +2167,4 @@ Route #2166:
 Route #2167:
 Route #2168:
 Route #2169:
-Cost: 18776814993
+Cost: 18771219242
