@@ -1,6 +1,6 @@
 # VRPTW
 
-This folder contains the Gehring and Homberger VRPTW instances with 1000 customers.
+This folder contains the Solomon and Gehring & Homberger VRPTW instances.
 The instances are taken from the [LKH-3 repository](http://webhotel4.ruc.dk/~keld/research/LKH-3/).
 The best-known solutions (BKS) reported in this directory follow the DIMACS rounding convention, that is, distances and durations are truncated to one decimal.
 The solution cost represents the total distance traveled.
