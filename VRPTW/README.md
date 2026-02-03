@@ -1,7 +1,7 @@
 # VRPTW
 
-This folder contains the Solomon and Gehring & Homberger VRPTW instances.
-The instances are taken from the [LKH-3 repository](http://webhotel4.ruc.dk/~keld/research/LKH-3/).
+This folder contains all Solomon and Gehring & Homberger VRPTW instances.
+The original instances are modified to fit PyVRP's VRPLIB format.
 The best-known solutions (BKS) reported in this directory follow the DIMACS rounding convention, that is, distances and durations are truncated to one decimal.
 The solution cost represents the total distance traveled.
 
