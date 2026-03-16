@@ -7,8 +7,8 @@ The instances are based on the Solomon (100 clients) instances and Gehring and H
 Compared to the original instances, the multi-trip instances have different number of vehicles and vehicle capacities, and it is allowed to reload vehicles.
 Release times were generated following the procedure described in Cattaruzza et al. (2016).
 
-The BKS presented here include reload depot visits within routes by explicitly including depot indices in the solution representation. 
-Location numbering starts at 0, with depots assigned lower indices. 
+The BKS presented here include reload depot visits within routes by explicitly including depot indices in the solution representation.
+Numbering starts at 0, with depots assigned lower indices.
 For example, in a problem with only one depot, "Route #1: 1 0 2" indicates that this route visits client 1, returns to depot 0 to reload, and then serves client 2.
 Finally, the solution costs follow the DIMACS rounding convention, that is, distances and durations are truncated to one decimal.
 
