@@ -5,6 +5,9 @@ The L instances of size 500-1200 clients are the modified Li instances due to Vi
 We interpret these instances as Generalized VRPs, and round the node coordinate data to integers (by multiplying the original floating point values by 1000 and truncating to integers).
 Finally, the instances are all formatted to fit PyVRP's VRPLIB format.
 
+The `ARP/` subdirectory contains GVRP transformations of the `DI-NEARP` and `egl-g` arc routing instances.
+See [`ARP/README.md`](ARP/README.md) for transformation and solution details.
+
 ### References
 
 Tolga Bektaş, Güneş Erdoğan, and Stefan Røpke (2011). Formulations and
