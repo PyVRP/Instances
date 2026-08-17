@@ -7,4 +7,5 @@ Distances are Euclidean and follow PyVRP's `exact` convention, that is, each val
 The objective is to minimise the total distance traveled, as opposed to the classical hierarchical objective that first minimises the number of vehicles and then the total distance.
 The solution cost represents the total distance traveled.
 
+> [!NOTE]
 > Solutions in this folder are the best solutions we found using multiple solvers under the distance-minimisation objective; they are not the best-known solutions from the literature.
